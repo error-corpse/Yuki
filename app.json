@@ -9,7 +9,7 @@
       {
          "plan": "heroku-postgresql",
          "options": {
-            "version": "15"
+            "version": "13"
          }
       }
    ],
@@ -100,7 +100,7 @@
       "DB_NAME": {
          "description": "Your MongoDB name.",
          "required": true,
-         "value": "MikoDB"
+         "value": "YukiDB"
       },
       "TOKEN": {
          "description": "Bot token obtained from @BotFather on Telegram.",
