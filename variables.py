@@ -21,7 +21,7 @@ class Config(object):
     MESSAGE_DUMP = -1002092954715
 
     # MongoDB configuration
-    MONGO_DB_URI = "mongodb+srv://ghost:ghost@3301@cluster0.nvpyoaf.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+    MONGO_DB_URI = "mongodb+srv://ghost:QUxf5UvcA9jMtIwR@cluster0.nvpyoaf.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
     # Support chat and support ID
     SUPPORT_CHAT = "Paradox Dumb"
